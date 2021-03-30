@@ -1,0 +1,44 @@
+.yellow{
+  background-color: #FFFF66;
+}
+
+.orange{
+  background-color: #FF964f;
+}
+
+.red{
+  background-color: #FA8072;
+}
+
+.pink{
+  background-color: #FF69B4;
+}
+
+.violet{
+  background-color: #9370DB;
+}
+
+.blue{
+  background-color: #1E90FF;
+}
+
+.lblue{
+  background-color: #87CEFA;
+}
+
+.lgreen{
+  background-color: #3CB371;
+}
+
+.green{
+  background-color: #32CD32;
+}
+
+.lime{
+  background-color: #7CFC00;
+}
+.yellow, .orange, .red, .pink, .violet, .blue, .lblue, .lgreen, .green, .lime{
+  color: black;
+  font-weight: bolder;
+  letter-spacing: 2px;
+}
